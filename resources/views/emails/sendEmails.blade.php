@@ -45,7 +45,7 @@
                     font-weight: bold;
                     font-size: 19px;
                   ">
-                                Dear {{ $data['name'] }},
+                                Hello {{ $data['name'] }},
                             </p>
                         </td>
                     </tr>
@@ -125,8 +125,8 @@
                         <td>
                             <p>
                                 Our team is grateful for your interest in Metaspace
-                                Innovations as a partner to improve production processes. Our
-                                team looks forward to speaking with you further about your
+                                Innovations as a partner to improve production processes.We are looking forward to
+                                speaking with you further about your
                                 specific needs.
                             </p>
                         </td>
